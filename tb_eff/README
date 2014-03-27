@@ -1,0 +1,4 @@
+The testbench will count the number of read hits and the number of total
+reads. For this IROM, your hit percentage should be at least 19%. If the
+numbers you're getting don't make sense, look at the 'hit' signal in your
+cache and make sure it's reasonable. 

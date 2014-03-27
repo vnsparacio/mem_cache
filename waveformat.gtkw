@@ -1,0 +1,23 @@
+[*]
+[*] GTKWave Analyzer v3.3.29 (w)1999-2012 BSI
+[*] Thu Mar 14 07:30:41 2013
+[*]
+[dumpfile] "/afs/ir.stanford.edu/users/a/k/akbsh/ee108b/lab4-orig/mipstest.vcd"
+[dumpfile_mtime] "Thu Mar 14 07:29:45 2013"
+[dumpfile_size] 622248
+[savefile] "/afs/ir.stanford.edu/users/a/k/akbsh/ee108b/lab4-orig/waveformat.gtkw"
+[timestart] 65
+[size] 1680 923
+[pos] -1 -1
+*-4.778754 22 22 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] mips_testbench.
+[treeopen] mips_testbench.dut.
+[treeopen] mips_testbench.dut.cpu.
+[treeopen] mips_testbench.dut.cpu.m_stage.
+[treeopen] mips_testbench.dut.cpu.m_stage.data_cache.
+[sst_width] 232
+[signals_width] 286
+[sst_expanded] 1
+[sst_vpaned_height] 293
+[pattern_trace] 1
+[pattern_trace] 0
